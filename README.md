@@ -21,7 +21,7 @@ This page connects to the youtube api, downloads the 3 most
 recent videos from each user affiliated with OfflineTV,  
 and presents the video with it's respective metadeta.  
 
-![alt text](https://github.com/Tamiyo/Unofficial_OfflineTV_MobileApp/blob/master/resources/youtube.png)
+![alt text](https://github.com/Tamiyo/Unofficial_OfflineTV_MobileApp/blob/master/resources/youtube.png)  
 ![alt text](https://github.com/Tamiyo/Unofficial_OfflineTV_MobileApp/blob/master/resources/youtube2.png)
 
 ## TWITCH ( WIP )

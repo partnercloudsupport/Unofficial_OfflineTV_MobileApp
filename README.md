@@ -7,6 +7,11 @@ NO WAY affiliated with OfflineTV, and that app is ment
 to be a personal project to work with API's and Dart's 
 Flutter.
 
+### DEVELOPER NOTES
+- I have not included the code for any of the API calls as they 
+contain sensitive information (keys, etc), but I have kept the
+comments explaining the function's purpose / uses.
+- This project is still a work in progress
 
 
 ## NEWS ( WIP )

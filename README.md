@@ -10,14 +10,14 @@ Flutter.
 
 
 ## NEWS ( WIP )
-This page connects to the twitter and reddit api, downloads 
-information (recent tweets and official reddit posts), 
+This page connects to the Twitter and Reddit api, downloads 
+information (recent tweets and official Reddit posts), 
 and compliles all of the information into one readable source. 
 
 ![alt text](https://github.com/Tamiyo/Unofficial_OfflineTV_MobileApp/blob/master/resources/news.png)
 
 ## YOUTUBE
-This page connects to the youtube api, downloads the 3 most 
+This page connects to the Youtube api, downloads the 3 most 
 recent videos from each user affiliated with OfflineTV, 
 and presents the video with it's respective metadeta. 
 
@@ -39,3 +39,10 @@ a sub-menu that shows the price, different options, the title of
 the merchendise, and its description.
 
 ![alt text](https://github.com/Tamiyo/Unofficial_OfflineTV_MobileApp/blob/master/resources/merch.png)
+
+## PLANNED UPDATES
+- Syncing the app to only perform a GET request when the content has changed to reduce app starttime
+- Performing GET requests in the background to reduce app starttime
+- Add Reddit information to the news page
+- Finish the Twitch.tv page
+- Work on integrating a WebAPI system from either the Android and / or the iOS platforms into Flutter

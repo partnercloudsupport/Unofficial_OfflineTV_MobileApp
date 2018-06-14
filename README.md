@@ -51,3 +51,6 @@ the merchendise, and its description.
 - Add Reddit information to the news page
 - Finish the Twitch.tv page
 - Work on integrating a WebAPI system from either the Android and / or the iOS platforms into Flutter
+
+## TL;DR
+This project is to help get me familiar with REST API's and Dart / Flutter, as well as integration and cross-platform mobile testing.
